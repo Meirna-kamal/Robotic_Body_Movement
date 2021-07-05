@@ -1,10 +1,8 @@
-Assignment 2: Robotic Body and Camera movement
-----------------------------------------------
-Objectives:
+Robotic Body and Camera movement:
 -----------
--Design a 3D human body.
--Apply a camera view that shows the body transformations in all directions.
--Stimulate movements of full body joints in all directions(elbows, wrests, hips, knees).
+* Design a 3D human body.
+* Apply a camera view that shows the body transformations in all directions.
+* Stimulate movements of full body joints in all directions(elbows, wrests, hips, knees).
 
 Keyboard Shortcuts for Body transformation:
 -------------------------------------------
@@ -52,6 +50,6 @@ right hand
 | m   | flanges flexion
 | M   | flanges extension
 
-Challenges:
------------
-We had difficulty in determining the origin point for each block to rotate it, we managed to fix it.
+# Images
+![picture alt](FullBody.PNG)
+![picture alt](FullBody2.PNG)
